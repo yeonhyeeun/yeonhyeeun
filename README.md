@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> 💻 Tech Stack ⚔️ 
-  Techs that I've used at leastonce  
+<h2> 💻 Tech Stack ⚔️  
+<h3> Techs that I've used at leastonce  
   
   
-  <img src="https://img.shields.io/badge/Java-1985F0?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-1985F0?style=flat-square&logo=Java&logoColor=white"/></a>
 
   
