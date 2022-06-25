@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> 💻 Tech Stack ⚔️  
-<h3> Techs that I've used at leastonce  
+### 💻 My Tech Stack ⚔️  
+## Techs that I've used at least once  
   
     
     
