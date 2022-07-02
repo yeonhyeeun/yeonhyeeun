@@ -22,8 +22,10 @@ Here are some ideas to get you started:
     
     
 <!-- 사용해본 테크 스택들 소개      -->
+
 <img src="https://img.shields.io/badge/Java-1985F0?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScripte-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/TypeScripte-1985F0?style=flat-square&logo=TypeScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor= white"/></a>
