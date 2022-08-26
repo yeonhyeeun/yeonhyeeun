@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQLlogoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor= white "/></a>
+<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=CSS&logoColor=black"/></a>
+
 
 
 
